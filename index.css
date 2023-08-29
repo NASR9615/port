@@ -1,0 +1,194 @@
+.nav{
+    /* display: flex; */
+    background-color:rgb(255, 4, 138);
+    height: 35px;
+    width: 97.8vw;
+    position: absolute;
+}
+.menu{
+    margin-left: 65%;
+}
+.main,.nav1{
+    display: flex;
+}
+
+.home{
+    position: absolute;
+    margin-top: 21%;
+    margin-left: 5%;
+}
+.po{
+    margin-top: 7px;
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.na{
+    text-decoration: none;
+    color: white;
+    float:left;
+    margin-left: 25px;
+    margin-top: 7px;
+    font-size:medium;
+    font-weight: bold;
+}
+.hire{
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.bo{
+    border: none;
+    height: 35px;
+    width: 100px;
+    background-color: darkblue;
+}
+.da{
+    width: 135%;
+    margin-left: 5%;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+.p{
+    font-size: larger;
+    font-weight: bold;
+}
+.h,.p,.s{
+    font-size:150%;
+}
+.im1{
+    width: 100%;
+    height: 100%;
+    /* backdrop-filter:blur(250px); */
+}
+.img2{
+    /* border-radius: 50%; */
+    margin-left: 13%;
+    /* margin-top: 7%; */
+    height: 350px;
+    width: 350px;
+}
+.abo1{
+    display: flex;
+    margin-top: 5%;
+}
+.abo2{
+    margin-left: 10%;
+}
+.obj{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bo1{
+    border: none;
+    height: 40px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    font-weight: 600;
+    /* font-size: medium; */
+}
+.deta{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.er{
+    background-color: lightgrey;
+}
+.ten{
+    background-color: white;
+    height: 380px;
+    width: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3),
+                  5px 0 5px rgba(0, 0, 0, 0.3),
+                  0 -5px 5px rgba(0, 0, 0, 0.3);
+                  0 -5px 5px rgba(0, 0, 0, 0.3);
+}
+.ten:hover,.in:hover,.be:hover{
+    background-color: aqua;
+}
+.in{
+    background-color: white;
+    height: 380px;
+    width: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3),
+                  5px 0 5px rgba(0, 0, 0, 0.3),
+                  0 -5px 5px rgba(0, 0, 0, 0.3);
+                  0 -5px 5px rgba(0, 0, 0, 0.3);
+}
+.be{
+    background-color: white;
+    height: 380px;
+    width: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3),
+                  5px 0 5px rgba(0, 0, 0, 0.3),
+                  0 -5px 5px rgba(0, 0, 0, 0.3);
+                 1px -5px 5px rgba(0, 0, 0, 0.3);
+}
+.ma{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:x-large;
+    margin-left: 12px;
+}
+.sk1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.sk2{
+    height: 500px;
+    width: 670px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.sk3{
+    height: 500px;
+    width: 570px;
+}
+.inp{
+    height: 11px;
+    border: none;
+    width: 100%;
+    background-color:grey;
+    display: flex;
+}
+.inp1{
+    height: 5px;
+    position: absolute;
+    background-color: green;
+    width: 10%;
+    height: 11px;
+}
+.per{
+    float: right;
+}
+.j{
+    display: flex;
+}
+
+.send{
+    width: 99%;
+    height: 33px;
+    background-color: lightgray;
+    cursor: pointer;
+
+}
+fieldset {
+    border: none;
+}
+.bold{
+    font-weight: bold;
+}
+.len{
+    width: 98%;
+    height: 30px;
+}
+.send:hover{
+    background-color: yellow;
+}
+.do{
+    text-decoration: none;
+    color: white;
+}
